@@ -1,4 +1,5 @@
 # itvedant-demo
+
 This is my first Git Repository
 <br>
-Author - Mahek Shaikh
+Author - Mahek (It Vedant)
